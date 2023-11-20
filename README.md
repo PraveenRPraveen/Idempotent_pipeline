@@ -14,9 +14,13 @@ https://www.kaggle.com/new-york-city/ny-parking-violations-issued?select=parking
 Requirements:
 
 1.Python
+
 2.git
+
 3.docker
+
 4.pyarrow
+
 5.fastparquet
 
 
